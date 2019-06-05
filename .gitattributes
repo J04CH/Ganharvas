@@ -1,0 +1,10 @@
+# Set default behavior to automatically normalize line endings (LF)
+* text=auto
+
+# Source file (LF)
+*.py text diff=python
+
+# Image and sound files are treated as binary by default
+*.png binary
+*.jpg binary
+*.mp3 binary
